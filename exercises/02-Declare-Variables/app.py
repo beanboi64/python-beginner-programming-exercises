@@ -1,5 +1,5 @@
 # ✅ ↓ your code here ↓ ✅
 
-name = "Yellow"
+color = "Yellow"
 
-print(name)
+print(color)
